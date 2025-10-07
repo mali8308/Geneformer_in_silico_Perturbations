@@ -1,4 +1,4 @@
-# In Silico Perturbations - An Experimental Pipeline for Scalable Gene Expression Manipulation
+# _In Silico_ Perturbations - An Experimental Pipeline for Scalable Gene Expression Manipulation
 
 This analysis is based on GSE174332
 
